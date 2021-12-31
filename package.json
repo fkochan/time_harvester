@@ -1,0 +1,23 @@
+{
+  "name": "time_harvester",
+  "version": "1.0.0",
+  "description": "harvest on time, unwrap on abra, unstake on time, sell on traderjoe.. tada!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkochan/time_harvester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkochan/time_harvester/issues"
+  },
+  "homepage": "https://github.com/fkochan/time_harvester#readme",
+  "dependencies": {
+    "ethers": "^5.5.2"
+  }
+}
